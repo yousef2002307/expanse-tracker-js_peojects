@@ -1,0 +1,27 @@
+* {
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+}
+body {
+}
+section form label {
+  margin-right: 1%;
+  font-weight: bold;
+  font-size: 18px;
+  margin-top: 5px;
+}
+section table i {
+  cursor: pointer;
+}
+.expanses {
+  margin-bottom: 58px;
+  padding: 10px 20px;
+  border: 2px solid #2fb526;
+}
+.expanses p {
+  font-size: 31px;
+  font-weight: bold;
+  text-transform: capitalize;
+}
